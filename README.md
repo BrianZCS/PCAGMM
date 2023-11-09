@@ -1,1 +1,3 @@
 # PCAGMM
+
+run GMM.ipynb
